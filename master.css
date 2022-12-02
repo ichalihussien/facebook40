@@ -1,0 +1,165 @@
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f2f5;
+    direction: rtl;
+    width: 1147px;
+  }
+  .parent {
+    background-color: white;
+    width: 396px;
+    height: 379px;
+    position: relative;
+    right: calc(751px/2);
+    text-align: center;
+    border-radius: 3%;
+    box-shadow: 1px 1px 1px;
+  }
+  h1 {
+    color: #1877f2;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    
+  }
+  #ali {
+    
+    display: block;
+    width: 350px;
+    height: 35px;
+    outline: none;
+    border: solid rgb(0 0 0 / 15%) 1px ;
+    border-radius: 6%;
+    margin-right: 25px;
+    
+
+  }
+  h4 {
+    padding: 24px;
+    font-size: 18px;
+  }
+  .submit {
+    
+      background-color: #1877f2;
+      display: block;
+      width: 350px;
+      height: 40px;
+      border-radius: 5%;
+      color: white;
+      border: none;
+      margin: 10px 25px;
+      cursor: pointer;
+      font-size: 19px;
+      font-weight: bolder;
+
+  }
+  a {
+    color: #1877f2;
+    text-decoration: none;
+    display: block;
+    margin: 15px 0;
+
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .submit:hover {
+    text-decoration: underline;
+
+  }
+  .creat {
+    margin-top: 5px;
+    background-color: #42b72a;
+    color: white;
+    width: 200px;
+    height: 30px;
+    border: none;
+    width: 120px;
+    height: 40px;
+    border-radius: 3%;
+    font-weight: bolder;
+    font-size: 17px;
+    cursor: pointer;
+    
+    
+  }
+  hr {
+    opacity: .5;
+  }
+ 
+  hr::before {
+    content: "أو";
+    width: 50px;
+    height: 24px; 
+    position: absolute;
+    left: 170px;
+    bottom: 96px;
+    background-color: white;
+  }
+  
+  
